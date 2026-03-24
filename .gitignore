@@ -2,6 +2,7 @@
 __pycache__/
 changes/
 versions/
+pip_*
 *.py[codz]
 *$py.class
 
